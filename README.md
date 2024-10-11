@@ -48,7 +48,7 @@ This project includes:
 
 2. **Navigate to the Project Directory**:
     ```bash
-    cd heart-disease-prediction
+    cd Heart-Disease-Prediction
     ```
 
 3. **Install Required Libraries**:
