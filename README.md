@@ -103,8 +103,7 @@ The app includes insightful data visualizations to help users understand key fac
 
 Here’s a quick look at how the web app works:
 
-![App Demo](app_demo.gif)  
-*Provide a GIF or image of your app interface in action here.*
+[![Demo Video](https://img.youtube.com/vi/P1-cNDmkzxk/0.jpg)](https://www.youtube.com/watch?v=P1-cNDmkzxk)
 
 ---
 
